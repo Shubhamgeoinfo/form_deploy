@@ -1,0 +1,21 @@
+.formContanier {
+    height: 100%;
+    width: 100%;
+}
+
+.main {
+    display: flex;
+    gap: 50px;
+}
+
+.left {
+    width: 50vw;
+    height: 70vh;
+
+}
+
+
+
+.right {
+    width: 50vw;
+}
